@@ -1,7 +1,7 @@
 # Omnifood Web Design Project
 <h3><a href = "https://omnifood-team8.web.app/">Live Website<a></h3>
 <h3>General</h3>
-This is a major assignment in the subject of Web Design - Information Technology Class of National Economics University. Group members include:
+This is a major assignment in the Web Design module - Information Technology Class - National Economics University.</br> Group members include:
 <ul>
     <li>Nguyen Le Minh</li>
     <li>Bui Hai Nghia</li>
@@ -20,8 +20,8 @@ This is a major assignment in the subject of Web Design - Information Technology
 
 <h3>Preview</h3>
 <p align = "center">
-<img src ="https://user-images.githubusercontent.com/116829489/230539127-7d6d65dc-d8f2-490e-8236-71eba9a5ecf1.png" width = 600>
-<img src ="https://user-images.githubusercontent.com/116829489/230539270-9d378fc9-a94e-4ca8-a195-78bc5e4b6f59.png" width = 600>
+<img src ="https://user-images.githubusercontent.com/116829489/230541094-b3584277-f70c-4e14-948d-1ffb4ad51d75.png" width = 600>
+<img src ="https://user-images.githubusercontent.com/116829489/230541155-dadb234f-f25c-4e10-9462-308f318a5319.png" width = 600>
 </p>
 Mobile responsive</br>
 

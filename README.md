@@ -1,5 +1,6 @@
 # Omnifood Web Design Project
 <h3><a href = "https://omnifood-team8.web.app/">Live Website<a></h3>
+<h3><a href = "https://www.figma.com/file/4T4oQMFTkOW6q64svsWy5o/BT-Figma-Nhom-8?node-id=22%3A4&t=HsFS5O0v8v6uvsB0-1">Figma Design<a></h3>
 <h3>General</h3>
 This is a major assignment in the Web Design module - Information Technology Class - National Economics University.</br> Group members include:
 <ul>

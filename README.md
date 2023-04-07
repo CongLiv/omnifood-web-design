@@ -20,7 +20,7 @@ This is a major assignment in the Web Design module - Information Technology Cla
 
 <h3>Preview</h3>
 <p align = "center">
-<img src ="https://user-images.githubusercontent.com/116829489/230541094-b3584277-f70c-4e14-948d-1ffb4ad51d75.png" width = 600>
+<img src ="https://user-images.githubusercontent.com/116829489/230541094-b3584277-f70c-4e14-948d-1ffb4ad51d75.png" width = 600></br>
 <img src ="https://user-images.githubusercontent.com/116829489/230541155-dadb234f-f25c-4e10-9462-308f318a5319.png" width = 600>
 </p>
 Mobile responsive</br>
